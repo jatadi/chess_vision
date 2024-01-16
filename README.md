@@ -40,6 +40,8 @@ The project was a successfull comparative analysis of predictive models in chess
    ```bash
    git clone https://github.com/jatadi/chess_vision.git
    cd Models
+   ```
+   
 
 **Download the Dataset:**
 
