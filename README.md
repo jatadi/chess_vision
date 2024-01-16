@@ -42,17 +42,17 @@ The project was a successfull comparative analysis of predictive models in chess
    cd Models
    ```
    
-Download the Dataset:
+**Download the Dataset:**
 
-Link to the dataset: Chessman Image Dataset on Kaggle
+   Link to the dataset: https://www.kaggle.com/datasets/niteshfre/chessman-image-dataset
 
-Usage Instructions
+**Usage Instructions:**
 
 Open the Jupyter Notebook:
 
-After launching Jupyter Notebook or JupyterLab, navigate to the directory containing the cloned repository.
-Open the .ipynb files in the order they are meant to be executed, if there's a specific order.
+   After launching Jupyter Notebook or JupyterLab, navigate to the directory containing the cloned repository.
+   Open the .ipynb files in the order they are meant to be executed, if there's a specific order.
 
 Run the Notebooks:
 
-Execute the cells in each notebook. Make sure to read any comments or documentation within the notebooks to understand the flow.
+   Execute the cells in each notebook. Make sure to read any comments or documentation within the notebooks to understand the flow.
